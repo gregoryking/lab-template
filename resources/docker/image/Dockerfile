@@ -18,7 +18,7 @@ ENV SHELL /bin/bash
 ARG NB_USER=thedatasociety
 ARG NB_UID=1000
 ARG GIT_PREFIX=https://github.com
-ARG GIT_USER=thedatasociety
+ARG GIT_USER=gregoryking
 ARG GIT_REPO=lab-template
 
 ENV USER ${NB_USER}
